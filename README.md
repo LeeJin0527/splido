@@ -1,4 +1,4 @@
-# Soplido
+# Splido
 
 # 응용소프트웨어 
 
